@@ -1,0 +1,2 @@
+1;Sabaton;19990101;Zespol
+2;Miles Davis;19260526;trebacz, lider, kompozytor

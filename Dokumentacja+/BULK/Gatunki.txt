@@ -1,0 +1,2 @@
+1;Metal;19650101;USA/UK
+2;Jazz;19100101;Nowy Orlean

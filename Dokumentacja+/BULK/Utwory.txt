@@ -1,0 +1,2 @@
+1;40:1;20080520;;4:11;1;1;1
+2;Tutu;19860901;Stary jazzowy kawalek, z trabka;5:18;2;2;2
